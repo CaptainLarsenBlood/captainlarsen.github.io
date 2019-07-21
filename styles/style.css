@@ -1,0 +1,32 @@
+html {
+       background-color: #C31DF5;
+       font-size: 25px;
+       font-family: 'Russo One', sans-serif;
+     }
+
+body {
+       width: 600px;
+       margin: 0 auto;
+       padding: 20px 20px 20px 20px; 
+       border: 10px solid black;
+       background-color: #1DBCF5;
+     }
+
+h1   {
+       font-size: 40px;
+       text-align: center;
+       margin: 5;
+       padding: 20px 0;
+       text-shadow: 5px 5px 5px black; /*размеры теней*/
+       color: #C31DF5;
+     }
+
+p,li {
+       font-size: 20px;
+       line-height: 1;
+       letter-spacing: 1px;
+     }  
+
+img  {
+       display: block; /*даём изображению блочное поведение*/
+       margin: 0 auto; /*центровка изображения*/
